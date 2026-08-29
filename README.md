@@ -1,4 +1,4 @@
-##About Me:
+## About Me
 I am a Computer Science undergraduate with a strong interest in Artificial Intelligence, Machine Learning, Full-Stack Development, IoT, and Cloud Technologies. I enjoy designing and developing practical technology solutions that address real-world problems across domains such as healthcare, agriculture, mobility, and assistive technology.
 <br>
 My experience includes building AI-powered applications, IoT-based systems, data-driven platforms, and full-stack web applications using technologies such as Python, Java, JavaScript, React, Node.js, FastAPI, TensorFlow, PyTorch, SQL, MongoDB, AWS, and Google Cloud.
