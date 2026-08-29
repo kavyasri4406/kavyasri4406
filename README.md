@@ -1,5 +1,9 @@
-# 💫 About Me:
-I'm N KAVYA SRI<br>I’m currently working on AI, IoT & full-stack projects<br>I’m looking to collaborate on innovative tech projects<br>I’m looking for help with AI/ML & advanced application development<br>I’m currently learning Cloud, AI/ML & advanced web technologies<br>Ask me about Java, Python, React, IoT & Power BI<br>Fun fact: I love turning ideas into working projects
+##About Me:
+I am a Computer Science undergraduate with a strong interest in Artificial Intelligence, Machine Learning, Full-Stack Development, IoT, and Cloud Technologies. I enjoy designing and developing practical technology solutions that address real-world problems across domains such as healthcare, agriculture, mobility, and assistive technology.
+<br>
+My experience includes building AI-powered applications, IoT-based systems, data-driven platforms, and full-stack web applications using technologies such as Python, Java, JavaScript, React, Node.js, FastAPI, TensorFlow, PyTorch, SQL, MongoDB, AWS, and Google Cloud.
+<br>
+I am passionate about continuous learning, problem-solving, and transforming innovative ideas into scalable and impactful solutions. I am currently focused on strengthening my expertise in AI/ML, cloud computing, and full-stack application development while exploring opportunities to contribute to meaningful technology projects.
 
 
 ## 🌐 Socials:
